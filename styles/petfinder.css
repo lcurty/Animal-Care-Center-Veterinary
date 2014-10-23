@@ -1,0 +1,8 @@
+@charset "utf-8";
+/* CSS Document */
+
+iframe .header,
+iframe .form,
+iframe .p {
+	display:none;
+}

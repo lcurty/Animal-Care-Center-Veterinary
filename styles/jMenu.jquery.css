@@ -1,0 +1,112 @@
+.jMenu {
+    display: table;
+    margin: 0;
+    padding: 0px 0px 0px 300px;
+		list-style: none;
+}
+
+/* First level */
+.jMenu li {
+    display: table-cell;
+    margin: 0;
+		list-style: none;
+		list-style-type: none;
+		list-style-image: none;
+}
+
+.jMenu li a {
+    padding: 3px;
+		margin: 7px;
+    display: block;
+		color: #514c49;
+		font-weight: bold;
+		text-decoration: none;
+		text-shadow: 1px 1px 0px #d1d1d1;
+		cursor: pointer;
+    border-bottom: 1px solid #ffffff;
+}
+
+.jMenu li a:hover {
+    border-bottom: 1px solid #f5ad66;
+}
+
+#header ul li#iamhere a,
+#header ul li#iamhere a:link,
+#header ul li#iamhere a:visited,
+#header ul li#iamhere a:hover {
+	border-bottom: 1px solid #514c49;
+}
+
+/* Lower levels */
+.jMenu li ul {
+    display: none;
+    position: absolute;
+		z-index:9999;
+    padding: 2px 0;
+    margin: 0px 0px 0px 8px;
+    /*border: 1px solid #e0cfc2;
+		border-radius: 6px;
+		background-color: #f4f0ec;*/
+		width: 125px;
+}
+
+.jMenu li ul li,
+ul.jMenu li ul li {
+    display: block;
+    padding: 0;
+		border: 0px;
+		width: 125px;
+		list-style: none;
+		list-style-type: none;
+		list-style-image: url(../images/clear.png);}
+
+.jMenu li ul li.arrow {
+    background-color: #f4f0ec;
+    background-image: url(../images/arrow_down.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 6px;
+    padding: 0;
+    border-bottom: none;
+    padding-bottom: 10px;
+		width: 125px;
+}
+
+#header ul li ul li a,
+#header ul li#iamhere ul li a,
+#header ul li#iamhere ul li a:link,
+#header ul li#iamhere ul li a:visited,
+#header ul li#iamhere ul li a:hover {
+    text-transform: none;
+    padding: 4px 7px;
+		margin: 0;
+    display: block;
+    border: 1px solid #cdc3b7;
+		width: 125px;
+		background-color: #ede4d4;
+}
+
+.jMenu li ul li a.isParent {
+    background-color: #f4f0ec;
+    background-image: url(../images/arrow_right.png);
+    background-repeat: no-repeat;
+    background-position: right center;
+		width: 125px;
+}
+
+.jMenu li ul li a:hover {
+    background-color: #f5f0e5;
+    border: 1px solid #f5ad66;
+		color: #a46313;
+		width: 125px;
+}
+
+#header ul li ul li#iamhere a,
+#header ul li ul li#iamhere a:link,
+#header ul li ul li#iamhere a:visited,
+#header ul li ul li#iamhere a:hover {
+    background-color: #f5f0e5;
+    border: 1px solid #a46313;
+		color: #a46313;
+		width: 125px;
+}

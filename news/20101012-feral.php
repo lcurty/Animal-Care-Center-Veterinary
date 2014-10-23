@@ -1,0 +1,12 @@
+<h3 class="title">Center Hosts Feral Cat Spay/Neuter Clinic</h3>
+<div class="article">
+ <p class="date">October 12, 2010</p>
+  <p class="publication">The Herald-Chronicle</p>
+  <div class="article-text">
+   <p>Animal Care Center doctors and staff will hold a low cost spay and neuter clinic for feral cats in honor of National Feral Cat Day, the annual kickoff for year round educational program about feral cats and the need for humane methods of care. Feral cats are the same species as companion cats, but they live outdoors in family groups and have never been socialized to people. Most animal shelters across the United States routinely kill feral cats because they can’t be adopted. It is an endless, costly, and cruel cycle.</p>
+   <p>National Feral Cat Day was inaugurated in 2001 by Alley Cat Allies, the national advocate for feral and stray cats. Alley Cat Allies is the foremost authority on a program called Trap Neuter Return, a humane method of care that improves the lives of outdoor cats. The event is one of many taking place across the country with the goal of reducing feral cat populations.</p>
+   <p>Alley Cat Allies is the foremost authority on a program called Trap Neuter Return, a humane method of care that improves the lives of outdoor cats. Over 70 percent of cats brought to animal control, pounds, or shelters are killed. The number jumps to virtually 100 percent of feral cats. With Trap Neuter Return, feral cats are humanely trapped and brought to a veterinarian to be tested for FELV and FIV, and healthy cats are spayed/neutered and vaccinated for rabies. Cats that have undergone the procedure are eartipped &ndash; a small portion of the left ear is painlessly removed for identification. Trap Neuter Return ends the cycle of breeding, makes feral cats better neighbors, and improves their lives. In the past three years, with the assistance of Animal Care Center and generous donations from vaccine and test manufacturers Merial and Idexx, more than 135 feral cats have been spayed/neutered and vaccinated.</p>
+   <p>This cat day event will be Oct. 13 from 8 a.m. until 5 p.m. at the center located at 1626 Sharp Springs Road, Winchester. The cost is $25 and appointments are necessary. For more information telephone the center at 931 967-6345.</p>
+  </div>
+ <p class="more"><a href="news-events.php#tabs-1">Read More</a></p>
+</div>
